@@ -1,13 +1,7 @@
-requests
+streamlit
+yfinance
 pandas
-matplotlib
 numpy
-scikit-learn
-tensorflow
-xgboost
-lightgbm
-catboost
-optuna
-statsmodels
-prophet
 plotly
+prophet
+scikit-learn
